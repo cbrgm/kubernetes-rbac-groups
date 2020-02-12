@@ -1,0 +1,13 @@
+apiGroups:
+- apps/v1
+resources:
+- statefulsets
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

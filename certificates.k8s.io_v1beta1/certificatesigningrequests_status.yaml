@@ -1,0 +1,8 @@
+apiGroups:
+- certificates.k8s.io/v1beta1
+resources:
+- certificatesigningrequests/status
+verbs:
+- get
+- patch
+- update

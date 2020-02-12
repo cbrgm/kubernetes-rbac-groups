@@ -1,0 +1,8 @@
+apiGroups:
+- storage.k8s.io/v1
+resources:
+- volumeattachments/status
+verbs:
+- get
+- patch
+- update

@@ -1,0 +1,8 @@
+apiGroups:
+- policy/v1beta1
+resources:
+- poddisruptionbudgets/status
+verbs:
+- get
+- patch
+- update

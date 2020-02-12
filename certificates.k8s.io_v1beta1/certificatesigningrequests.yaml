@@ -1,0 +1,13 @@
+apiGroups:
+- certificates.k8s.io/v1beta1
+resources:
+- certificatesigningrequests
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

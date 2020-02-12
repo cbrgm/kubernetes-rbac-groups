@@ -1,0 +1,13 @@
+apiGroups:
+- batch/v1
+resources:
+- jobs
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

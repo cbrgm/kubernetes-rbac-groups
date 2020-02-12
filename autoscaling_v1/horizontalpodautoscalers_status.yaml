@@ -1,0 +1,8 @@
+apiGroups:
+- autoscaling/v1
+resources:
+- horizontalpodautoscalers/status
+verbs:
+- get
+- patch
+- update

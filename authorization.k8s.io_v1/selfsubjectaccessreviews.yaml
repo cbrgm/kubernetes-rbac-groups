@@ -1,0 +1,6 @@
+apiGroups:
+- authorization.k8s.io/v1
+resources:
+- selfsubjectaccessreviews
+verbs:
+- create

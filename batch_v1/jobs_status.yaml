@@ -1,0 +1,8 @@
+apiGroups:
+- batch/v1
+resources:
+- jobs/status
+verbs:
+- get
+- patch
+- update

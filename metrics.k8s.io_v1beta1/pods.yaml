@@ -1,0 +1,7 @@
+apiGroups:
+- metrics.k8s.io/v1beta1
+resources:
+- pods
+verbs:
+- get
+- list

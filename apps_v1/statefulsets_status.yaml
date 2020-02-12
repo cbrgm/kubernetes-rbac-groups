@@ -1,0 +1,8 @@
+apiGroups:
+- apps/v1
+resources:
+- statefulsets/status
+verbs:
+- get
+- patch
+- update

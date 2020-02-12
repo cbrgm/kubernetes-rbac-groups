@@ -1,0 +1,6 @@
+apiGroups:
+- authentication.k8s.io/v1
+resources:
+- tokenreviews
+verbs:
+- create

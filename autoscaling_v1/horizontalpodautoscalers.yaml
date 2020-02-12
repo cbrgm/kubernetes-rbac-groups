@@ -1,0 +1,13 @@
+apiGroups:
+- autoscaling/v1
+resources:
+- horizontalpodautoscalers
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

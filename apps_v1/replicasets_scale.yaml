@@ -1,0 +1,8 @@
+apiGroups:
+- apps/v1
+resources:
+- replicasets/scale
+verbs:
+- get
+- patch
+- update

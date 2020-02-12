@@ -1,0 +1,13 @@
+apiGroups:
+- apiregistration.k8s.io/v1
+resources:
+- apiservices
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

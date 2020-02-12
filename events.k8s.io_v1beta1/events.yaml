@@ -1,0 +1,13 @@
+apiGroups:
+- events.k8s.io/v1beta1
+resources:
+- events
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

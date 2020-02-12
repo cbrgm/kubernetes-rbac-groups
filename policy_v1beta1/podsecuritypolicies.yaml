@@ -1,0 +1,13 @@
+apiGroups:
+- policy/v1beta1
+resources:
+- podsecuritypolicies
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

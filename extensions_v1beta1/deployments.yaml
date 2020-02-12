@@ -1,0 +1,13 @@
+apiGroups:
+- extensions/v1beta1
+resources:
+- deployments
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

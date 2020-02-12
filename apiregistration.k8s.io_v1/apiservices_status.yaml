@@ -1,0 +1,8 @@
+apiGroups:
+- apiregistration.k8s.io/v1
+resources:
+- apiservices/status
+verbs:
+- get
+- patch
+- update

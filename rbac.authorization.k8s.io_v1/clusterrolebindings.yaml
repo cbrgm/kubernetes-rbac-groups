@@ -1,0 +1,13 @@
+apiGroups:
+- rbac.authorization.k8s.io/v1
+resources:
+- clusterrolebindings
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

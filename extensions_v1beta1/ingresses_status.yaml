@@ -1,0 +1,8 @@
+apiGroups:
+- extensions/v1beta1
+resources:
+- ingresses/status
+verbs:
+- get
+- patch
+- update

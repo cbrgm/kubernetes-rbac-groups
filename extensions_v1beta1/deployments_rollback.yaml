@@ -1,0 +1,6 @@
+apiGroups:
+- extensions/v1beta1
+resources:
+- deployments/rollback
+verbs:
+- create

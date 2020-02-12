@@ -1,0 +1,8 @@
+apiGroups:
+- extensions/v1beta1
+resources:
+- replicationcontrollers/scale
+verbs:
+- get
+- patch
+- update
