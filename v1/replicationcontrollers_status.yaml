@@ -1,0 +1,8 @@
+apiGroups:
+- v1
+resources:
+- replicationcontrollers/status
+verbs:
+- get
+- patch
+- update

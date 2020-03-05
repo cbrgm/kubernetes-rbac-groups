@@ -1,0 +1,8 @@
+apiGroups:
+- v1
+resources:
+- persistentvolumeclaims/status
+verbs:
+- get
+- patch
+- update

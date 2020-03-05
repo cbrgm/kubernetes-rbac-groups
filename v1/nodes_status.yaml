@@ -1,0 +1,8 @@
+apiGroups:
+- v1
+resources:
+- nodes/status
+verbs:
+- get
+- patch
+- update

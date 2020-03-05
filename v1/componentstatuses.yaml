@@ -1,0 +1,7 @@
+apiGroups:
+- v1
+resources:
+- componentstatuses
+verbs:
+- get
+- list

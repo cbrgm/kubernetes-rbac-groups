@@ -1,0 +1,6 @@
+apiGroups:
+- v1
+resources:
+- pods/log
+verbs:
+- get

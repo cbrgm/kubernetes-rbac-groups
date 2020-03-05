@@ -1,0 +1,13 @@
+apiGroups:
+- v1
+resources:
+- nodes
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

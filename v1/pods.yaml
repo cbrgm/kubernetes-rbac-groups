@@ -1,0 +1,13 @@
+apiGroups:
+- v1
+resources:
+- pods
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

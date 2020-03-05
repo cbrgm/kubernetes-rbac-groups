@@ -1,0 +1,6 @@
+apiGroups:
+- v1
+resources:
+- namespaces/finalize
+verbs:
+- update

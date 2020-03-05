@@ -1,0 +1,13 @@
+apiGroups:
+- discovery.k8s.io/v1beta1
+resources:
+- endpointslices
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

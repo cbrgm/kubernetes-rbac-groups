@@ -1,0 +1,13 @@
+apiGroups:
+- storage.k8s.io/v1
+resources:
+- csinodes
+verbs:
+- create
+- delete
+- deletecollection
+- get
+- list
+- patch
+- update
+- watch

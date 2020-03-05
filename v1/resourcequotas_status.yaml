@@ -1,0 +1,8 @@
+apiGroups:
+- v1
+resources:
+- resourcequotas/status
+verbs:
+- get
+- patch
+- update

@@ -1,0 +1,7 @@
+apiGroups:
+- v1
+resources:
+- pods/exec
+verbs:
+- create
+- get

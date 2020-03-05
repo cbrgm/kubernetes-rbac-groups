@@ -1,0 +1,8 @@
+apiGroups:
+- v1
+resources:
+- pods/status
+verbs:
+- get
+- patch
+- update

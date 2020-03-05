@@ -1,0 +1,7 @@
+apiGroups:
+- v1
+resources:
+- pods/portforward
+verbs:
+- create
+- get

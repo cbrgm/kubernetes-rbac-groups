@@ -1,0 +1,10 @@
+apiGroups:
+- v1
+resources:
+- nodes/proxy
+verbs:
+- create
+- delete
+- get
+- patch
+- update
